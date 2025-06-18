@@ -19,7 +19,7 @@ This repository contains my work for Task 1 of my Data Analytics Internship. In 
 
 **📌 Task Overview**
 
-The main goal of this task was to explore and analyze a dataset using PySpark, which is widely used for scalable and distributed data processing. The dataset used was a CSV file containing retail transaction data. Using PySpark, I carried out several operations including data inspection, filtering, aggregation, transformation, and sorting.
+The main goal of this task was to explore and analyze a dataset using PySpark, which is widely used for scalable and distributed data processing. The dataset used contains retail transaction data. Using PySpark, I carried out several operations including data inspection, filtering, aggregation, transformation, and sorting.
 
 This analysis showcases how PySpark can be used to handle large datasets that might be challenging for traditional Python libraries like pandas. It also highlights how simple data processing workflows can be scaled using Spark’s distributed computing capabilities.
 
@@ -58,15 +58,15 @@ Unique value identification
 
 This type of analysis is highly applicable in real-world domains such as:
 
-Retail and E-commerce: Understanding customer behavior, sales trends, and high-performing products.
+**Retail and E-commerce**: Understanding customer behavior, sales trends, and high-performing products.
 
-Healthcare: Analyzing large volumes of patient records for insights.
+**Healthcare**: Analyzing large volumes of patient records for insights.
 
-Finance: Detecting fraud, risk modeling, and transaction analysis.
+**Finance**: Detecting fraud, risk modeling, and transaction analysis.
 
-Social Media: Processing user data for content recommendations and engagement insights.
+**Social Media**: Processing user data for content recommendations and engagement insights.
 
-Telecommunications: Analyzing call records and network data for improving service quality.
+**Telecommunications**: Analyzing call records and network data for improving service quality.
 
 
 
