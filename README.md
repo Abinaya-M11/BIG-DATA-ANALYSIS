@@ -17,7 +17,8 @@
 
 This repository contains my work for Task 1 of my Data Analytics Internship. In this task, I performed Big Data Analysis using PySpark in Google Colab. The focus was to gain hands-on experience in data processing, manipulation, and analysis using Apache Spark's PySpark module—a powerful framework for handling big data efficiently.
 
-📌 Task Overview
+**📌 Task Overview**
+
 The main goal of this task was to explore and analyze a dataset using PySpark, which is widely used for scalable and distributed data processing. The dataset used was a CSV file containing retail transaction data. Using PySpark, I carried out several operations including data inspection, filtering, aggregation, transformation, and sorting.
 
 This analysis showcases how PySpark can be used to handle large datasets that might be challenging for traditional Python libraries like pandas. It also highlights how simple data processing workflows can be scaled using Spark’s distributed computing capabilities.
