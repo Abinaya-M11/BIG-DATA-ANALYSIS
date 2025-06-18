@@ -13,7 +13,7 @@
 "MENTOR":NEELA SANTHOSH KUMAR
 
 
-Task 1: Big Data Analysis 
+**Task 1: Big Data Analysis** 
 
 This repository contains my work for Task 1 of my Data Analytics Internship. In this task, I performed Big Data Analysis using PySpark in Google Colab. The focus was to gain hands-on experience in data processing, manipulation, and analysis using Apache Spark's PySpark module—a powerful framework for handling big data efficiently.
 
@@ -22,7 +22,8 @@ The main goal of this task was to explore and analyze a dataset using PySpark, w
 
 This analysis showcases how PySpark can be used to handle large datasets that might be challenging for traditional Python libraries like pandas. It also highlights how simple data processing workflows can be scaled using Spark’s distributed computing capabilities.
 
-🛠️ Tools and Technologies Used
+
+**🛠️ Tools and Technologies Used**
 
 Programming Language: Python
 
